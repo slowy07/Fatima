@@ -7,6 +7,6 @@ torchaudio
 arabic_pronounce
 pypinyin
 Unidecode
-PyYAML==5.1
+PyYAML==5.4
 codernitydb3
 mishkal
